@@ -26,8 +26,8 @@ touch main.css
 
 - View your website
 ```
-open index.html     <--- MacOS
-xdg-open index.html <--- Windows/Linux
+open index.html     
+or use live server to view page
 ```
   - Open your dev tools with  `cmd + option + i` (MacOS) or `ctrl + shift + i` (Windows/Linux).
 
